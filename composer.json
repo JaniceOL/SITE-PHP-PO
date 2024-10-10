@@ -1,0 +1,15 @@
+{
+    "authors": [
+        {
+            "name": "Janice",
+            "email": "oliveira.janice.ufpe@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Core\\": "core/",
+            "Sts\\": "core/app/sts/"
+        }
+    },
+    "require": {}
+}
